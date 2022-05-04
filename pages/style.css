@@ -38,7 +38,7 @@
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
-@import url(../blocks/table/__cell/_theme_dark/table__cell_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
@@ -60,6 +60,7 @@
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
